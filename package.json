@@ -1,0 +1,11 @@
+{
+  "name": "runsite-ssh2-ram",
+  "version": "1.0.0",
+  "main": "ssh2-listen.js",
+  "scripts": {
+    "start": "node ssh2-listen.js"
+  },
+  "dependencies": {
+    "ssh2": "^1.15.0"
+  }
+}

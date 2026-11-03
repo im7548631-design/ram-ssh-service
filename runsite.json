@@ -1,0 +1,7 @@
+{
+  "name": "ram-ssh-service",
+  "visibility": "private",
+  "port": 2222,
+  "buildCommand": "npm install",
+  "startCommand": "npm start"
+}
